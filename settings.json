@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Spytube.aternos.me",
-    "port": 64899,
+    "ip": "Spyternos.me",
+    "port": 699,
     "version": "",
     "try-creative": false
   },
